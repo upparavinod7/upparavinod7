@@ -1,195 +1,140 @@
-<!-- Welcome Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Vinod+Uppara;AI+Engineer+%7C+Full-Stack+Developer;Building+intelligent+products+at+scale" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <p><strong>Crafting AI-powered solutions that solve real-world problems through elegant code and innovative thinking</strong></p>
-</div>
+**Architecture Highlights:**
+- ✅ Hybrid Java-Python bridge for optimal performance
+- ✅ Dual-layer AI: Deep learning + fallback haar cascades
+- ✅ Custom Swing UI with glassmorphism design
+- ✅ Hardware-accelerated media playback
+- ✅ Robust error handling with graceful degradation
 
----
+**Why it matters:** This demonstrates production-grade system design—combining 3 languages (Java, Python, SQL logic) into a cohesive desktop application with sophisticated emotion detection.
 
-## 🚀 About Me
-
-I'm an **AI-powered Full-Stack Engineer** passionate about building intelligent, scalable solutions. I specialize in combining **AI/ML capabilities** with modern web technologies to create products that matter.
-
-**Currently Building:** **CareerOS-AI** — An intelligent career intelligence platform with real-time job search, skill gap analysis, fit scoring engine, and personalized roadmap generation.
-
-**My Mission:** Transform complex problems into elegant, AI-driven solutions that create measurable impact.
+**Status:** 🆕 Latest Release | Launched: May 28, 2026
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Expertise
 
 <div align="center">
 
-### 🎯 Languages
+### 🔧 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge&logo=recharts&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI/ML & Data
+### 🤖 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python ML](https://img.shields.io/badge/ML-Scikit%2FNumPy-F7931E?style=for-the-badge)
 
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📊 Expertise Matrix
 
-<div align="center">
-
-### 🤖 CareerOS-AI
-**AI-Powered Career Intelligence Platform**
-
-An end-to-end intelligent career platform featuring:
-- ✨ Real-time job search with smart matching
-- 🎯 AI-powered fit scoring engine
-- 📚 Personalized career roadmap generation
-- 🔍 Skill gap analysis with recommendations
-- 💼 Interview preparation assistance
-
-**Tech:** React · TypeScript · Node.js · MongoDB · OpenAI API · TensorFlow  
-**Repository:** [BE](https://github.com/upparavinod7/CareerOS-AI-be) · [FE](https://github.com/upparavinod7/CareerOS-AI-fe)  
-**Status:** 🔄 Active Development | Last Updated: 2 days ago
+| Domain | Proficiency | Key Evidence |
+|--------|------------|--------------|
+| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | CareerOS-AI: complete MERN implementation |
+| **Frontend Engineering** | ⭐⭐⭐⭐⭐ | React/TypeScript architecture, UI/UX with Framer Motion |
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | Node.js/Express with MongoDB, REST API design |
+| **AI/ML Integration** | ⭐⭐⭐⭐⭐ | TensorFlow, OpenAI APIs, Computer Vision (emotion detection) |
+| **System Architecture** | ⭐⭐⭐⭐ | Hybrid Java-Python systems, microservice thinking |
+| **Database Design** | ⭐⭐⭐⭐ | MongoDB schema design, indexing, query optimization |
+| **Problem Solving** | ⭐⭐⭐⭐⭐ | Novel product concepts, AI-first approach |
+| **Code Quality** | ⭐⭐⭐⭐ | Clean architecture, modular design patterns |
 
 ---
 
-### 🎵 Smart Music Player
-**Mood-Detecting AI Music Player**
+## 🎓 Currently Learning & Exploring
 
-An intelligent desktop music player that:
-- 😊 Detects user mood via webcam expression recognition
-- 🎶 Dynamically plays tracks matching detected mood
-- ⚡ Real-time facial emotion analysis
-- 🎼 Seamless music library integration
-
-**Tech:** Java · TensorFlow · OpenCV · Computer Vision  
-**Repository:** [Smart-Music-Player](https://github.com/upparavinod7/Smart-Music-Player)  
-**Status:** 🆕 Latest Release | Just Launched!
+- 📘 Advanced distributed systems & microservices patterns
+- 📗 Production ML deployment (MLOps, model serving)
+- 📙 System design at scale (scalability, reliability)
+- 📕 Open-source contribution workflows
+- 🔬 Advanced LLM integration & fine-tuning
+- 🏗️ Cloud infrastructure (GCP, AWS deployment patterns)
 
 ---
 
-### 🎨 Portfolio Showcase
-**Personal Portfolio Website**
+## 🌟 Core Philosophy
 
-Modern, responsive portfolio demonstrating full-stack capabilities with clean UI/UX design principles.
-
-**Tech:** HTML · CSS · JavaScript · Responsive Design  
-**Repository:** [UPPARA-VINOD-PORTFOLIO](https://github.com/upparavinod7/UPPARA-VINOD-PORTFOLIO)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upparavinod7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upparavinod7&layout=compact&theme=tokyonight&hide=html,css)
-
-</div>
-
-<div align="center">
-
-### 🔥 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upparavinod7&theme=tokyo-night&hide_border=true)](https://github.com/upparavinod7)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔍 **CareerOS-AI Enhancement** — Implementing advanced ML models for better job matching
-- 🎨 **AI-Driven Solutions** — Building next-generation features with LLMs
-- 📚 **Open Source Contributions** — Contributing to AI/ML communities
-- 🚀 **Prompt Engineering** — Exploring advanced LLM integrations and optimization
-- 💡 **Full-Stack Innovation** — Merging frontend creativity with backend intelligence
-
----
-
-## 💡 Core Philosophy
+> "Great products come from combining technical depth with user empathy."
 
 I believe in:
-
-- **🎯 Building for Impact** — Code should solve real problems and create value
-- **🔧 Full Ownership** — End-to-end responsibility from concept to deployment
-- **🤖 AI-First Thinking** — Leveraging ML to enhance every user experience
-- **✨ Clean Code** — Maintainability and scalability matter
-- **📈 Continuous Learning** — Tech evolves rapidly; so must I
+- **🎯 Building for Impact** — Code should solve real problems, not impress with complexity
+- **🤖 AI-First Thinking** — Leverage ML to enhance every product experience
+- **✨ Clean Code** — Maintainability, scalability, and readability matter
+- **🔧 Full Ownership** — End-to-end responsibility from concept to production
+- **📈 Continuous Growth** — Tech evolves rapidly; so must I
 - **🤝 Collaboration** — Great products come from diverse perspectives
 
 ---
 
-## 📈 Key Strengths
-
-| Area | Proficiency | Evidence |
-|------|------------|----------|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | CareerOS-AI (complete MERN stack) |
-| **AI/ML Integration** | ⭐⭐⭐⭐⭐ | Smart Music Player (emotion detection) |
-| **Frontend Architecture** | ⭐⭐⭐⭐⭐ | React/TypeScript expertise, responsive design |
-| **Backend Design** | ⭐⭐⭐⭐⭐ | Node.js/Express, REST APIs, MongoDB |
-| **Problem Solving** | ⭐⭐⭐⭐⭐ | Multiple innovative projects showcasing creativity |
-| **Code Quality** | ⭐⭐⭐⭐⭐ | Well-structured, documented projects |
-
----
-
-## 🎓 Growth Areas & Learning
-
-- 📘 Advanced system design patterns
-- 📗 Distributed systems and microservices
-- 📙 Production-scale ML deployment
-- 📕 Cloud infrastructure optimization
-
----
-
-## 🤝 Let's Connect
+## 📈 GitHub Statistics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://linkedin.com/in/upparavinod7](https://www.linkedin.com/in/uppara-vinod-2259b728b/))](https://www.linkedin.com/in/uppara-vinod-2259b728b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upparavinod7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/upparavinod7/UPPARA-VINOD-PORTFOLIO)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upparavinod7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs,prs)](https://github.com/upparavinod7)
 
-**Open to:** Collaborations | Open Source | Exciting Projects | Career Opportunities at AI/ML focused companies
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upparavinod7&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/upparavinod7)
 
 </div>
 
 ---
 
-## 📬 Latest Projects & Updates
+## 🎯 What I'm Working On
+
+- 🔍 **CareerOS-AI Enhancement** — Implementing advanced ML for better job-role matching
+- 🎨 **Full-Stack Innovation** — Exploring AI-driven UI/UX enhancements
+- 📚 **Open Source** — Planning contributions to AI/ML communities
+- 🚀 **Scalability** — Optimizing systems for production workloads
+- 💡 **Product Development** — Building the next generation of career tech
+
+---
+
+## 🤝 Open To
+
+✅ **Collaborations** on AI-powered full-stack projects  
+✅ **Open Source** contributions and maintainership  
+✅ **Exciting Projects** that solve real problems  
+✅ **Career Opportunities:**
+  - AI Engineer roles at startups & scale-ups
+  - Full-Stack Engineer positions at tech companies
+  - Senior Developer roles with AI/ML focus
+  - Technical Leadership positions
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-- 🎯 **CareerOS-AI** — Building the future of career intelligence
-- 🎵 **Smart Music Player** — AI meets entertainment
-- 💼 **Open to opportunities** in AI Engineer, Full-Stack Developer roles
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-upparavinod-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uppara-vinod/)
+[![Email Badge](https://img.shields.io/badge/Email-upparavinod7@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:upparavinod7@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-upparavinod7-181717?style=for-the-badge&logo=github)](https://github.com/upparavinod7)
 
-**Check out my pinned repositories below for deeper dives!** ⬇️
+**Interested in my work?** ⭐ Star my repositories or reach out!
 
 </div>
 
@@ -197,21 +142,14 @@ I believe in:
 
 <div align="center">
 
-### 🌟 If You Find My Work Interesting
+### 🌟 Profile Highlights
 
-<a href="https://github.com/upparavinod7?tab=repositories">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/upparavinod7?style=social&label=Follow">
-</a>
+- 🏆 Building AI-powered products at scale
+- 💼 SaaS thinking + startup mentality
+- 🎯 Deep technical expertise across full-stack & AI
+- 📈 Continuous learner & problem solver
+- 🚀 Ready for exciting opportunities
 
-⭐ **Consider starring my projects** — it means a lot and helps others discover them!
-
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=upparavinod7&color=blueviolet&style=flat-square&label=Profile+Views" />
-
----
-
-<p><i>"Code is poetry written in logic. Make it count."</i></p>
-
-**Last Updated:** May 28, 2026 | Always Learning 🚀
+**Last Updated:** May 28, 2026 | Always Learning & Building 🚀
 
 </div>
