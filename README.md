@@ -171,8 +171,7 @@ I believe in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/upparavinod7)](https://linkedin.com/in/upparavinod7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/upparavinod7)](https://twitter.com/upparavinod7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://linkedin.com/in/upparavinod7](https://www.linkedin.com/in/uppara-vinod-2259b728b/))](https://www.linkedin.com/in/uppara-vinod-2259b728b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upparavinod7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/upparavinod7/UPPARA-VINOD-PORTFOLIO)
 
