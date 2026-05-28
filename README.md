@@ -1,3 +1,91 @@
+<div align="center">
+
+# 👋 Vinod Uppara
+
+### 🚀 AI Engineer | Full-Stack Developer | Career-Tech Builder
+
+**Crafting intelligent, scalable products that combine modern web architecture with AI/ML capabilities**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppara-vinod/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upparavinod7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=upparavinod7&color=0891b2&style=flat-square)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+I'm an **AI-powered full-stack engineer** passionate about building intelligent solutions at scale. My work spans:
+
+- **Full-stack product development** → React, TypeScript, Node.js, MongoDB
+- **AI/ML integration** → TensorFlow, OpenAI APIs, Computer Vision, Emotion Detection
+- **Startup thinking** → SaaS architecture, product-market fit, user-centric design
+- **Complex system design** → MERN stacks, hybrid Java-Python architectures, real-time analytics
+
+**Currently Building:** [CareerOS-AI](#careeros-ai) — An AI-powered career intelligence platform with job fit analysis, skill gap detection, and personalized learning roadmaps.
+
+**Mission:** Transform complex problems into elegant, AI-driven solutions that create measurable impact.
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 **CareerOS-AI** — AI-Powered Career Intelligence Platform
+**[Backend](https://github.com/upparavinod7/CareerOS-AI-be) | [Frontend](https://github.com/upparavinod7/CareerOS-AI-fe)**
+
+The future of career discovery isn't just job listings—it's intelligent career planning.
+
+**What it does:**
+- 🔍 Real-time job search with intelligent filtering
+- 🎯 AI-powered fit scoring engine (skill matching algorithms)
+- 📚 Personalized career roadmap generation with timeline
+- 🛠️ Skill gap analysis with targeted recommendations
+- 💼 Application tracking & interview preparation
+- 📊 Career analytics dashboard with trend analysis
+
+**Tech Stack:**
+```
+Frontend: React 18 | TypeScript | Tailwind CSS | Framer Motion | Recharts
+Backend: Node.js | Express.js | MongoDB | JWT Auth | REST APIs
+AI/ML: OpenAI API | TensorFlow | Skill matching algorithms
+DevOps: Docker (setup ready) | Environment-based config
+```
+
+**Architecture Highlights:**
+- ✅ Modular service-based backend
+- ✅ Type-safe frontend with custom hooks
+- ✅ AI scoring engine (not just keyword matching)
+- ✅ Real-time job sync pipeline
+- ✅ Production-grade error handling & validation
+- ✅ Scalable MongoDB schema design
+
+**Why it matters:** This is not a tutorial project—it's a SaaS product with real AI integration that solves the career discovery problem at scale.
+
+**Status:** 🔄 Active Development | Last Updated: May 26, 2026
+
+---
+
+### 🎵 **Smart Music Player** — AI-Powered Emotion-Sensing Music Application
+**[Repository](https://github.com/upparavinod7/Smart-Music-Player)**
+
+Music that understands your emotions.
+
+**What it does:**
+- 😊 Real-time facial emotion detection via webcam
+- 🎶 Dynamically selects tracks matching your mood
+- ⚡ Intelligent mood classification (happy, sad, angry, neutral, etc.)
+- 🎨 Ambient UI with mood-responsive color gradients
+- 📊 Seamless desktop music player experience
+
+**Tech Stack:**
+```
+Desktop UI: Java Swing | JavaFX Media Engine
+AI Engine: Python | OpenCV | TensorFlow CNN
+Computer Vision: Haar Cascade classifiers | Deep learning models
+Audio: Hardware-accelerated MP3 decoding
+```
 
 **Architecture Highlights:**
 - ✅ Hybrid Java-Python bridge for optimal performance
