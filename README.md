@@ -6,9 +6,9 @@
 
 **Crafting intelligent, scalable products that combine modern web architecture with AI/ML capabilities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppara-vinod/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uppara-vinod-2259b728b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upparavinod7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfolio-tau-three-16.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=upparavinod7&color=0891b2&style=flat-square)
 
 </div>
